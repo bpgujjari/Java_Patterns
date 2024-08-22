@@ -1,4 +1,13 @@
 package com.comeback.patterns;
+/*
+ 
+54321
+ 4321
+  321
+   21
+    1
+    
+*/
 
 public class Pattern54{
 	public static void main(String[] args) {

@@ -2,11 +2,11 @@ package com.comeback.patterns;
 
 /*
  
+   5
+   45
+  345
+ 2345
 12345
-6789
-123
-45
-6
 
 */
 

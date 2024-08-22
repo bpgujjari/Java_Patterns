@@ -1,4 +1,15 @@
 package com.comeback.patterns;
+
+/*
+
+ABCDE
+BCDE
+CDE
+DE
+E
+    
+*/
+
 public class Pattern59{
 	public static void main(String[] args) {
 		for (char i ='A'; i<='E'; i++) {
